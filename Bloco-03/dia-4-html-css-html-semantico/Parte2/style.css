@@ -1,0 +1,129 @@
+body {
+  background-color: #363636;
+  color: #ffffff;
+  font-family: Roboto;
+  margin: 0;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+}
+
+header div {
+  background-color: #242f40;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+span {
+  color: #cca43b;
+  font-weight: 800;
+}
+
+ul {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #363636;
+}
+
+.nav li {
+  display: inline-block;
+  margin-right: 20px;
+  color: #363636;
+  padding: 10px;
+}
+
+nav div {
+  margin-top: -20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+#lista li {
+  text-decoration: none;
+  display: block;
+  margin-left: 20px;
+  margin-top: 6px;
+}
+
+#primeiro {
+  margin-top: 16px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+article {
+  margin-left: 30px;
+}
+
+p {
+  color: #e5e5e5;
+}
+
+h3 {
+  text-decoration: underline;
+  text-decoration-color: #cca43b;
+  margin: 20px 0 10px 0;
+}
+
+img {
+  border: 2px solid #e5e5e5;
+  border-radius: 2px;
+  width: 650px;
+  height: 340px;
+  display: block;
+  margin: auto;
+}
+
+#stomatopoda {
+  width: 380px;
+  height: 280px;
+  margin: 25px 40px 0 0;
+  float: left;
+}
+
+#video {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+aside {
+  text-align: center;
+  display: block;
+  padding: 20px;
+}
+
+#youtube {
+  color: #ffffff;
+  font-size: 25px;
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+em {
+  font-weight: 800;
+  text-decoration: underline;
+  text-decoration-color: #cca43b;
+}
+
+#footer {
+  display: block;
+  margin-top: 40px;
+  padding: 2px;
+  background-color: #242f40;
+  text-align: center;
+  color: #ffffff;
+  font-size: 10px;
+}
