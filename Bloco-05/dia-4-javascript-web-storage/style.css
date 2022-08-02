@@ -1,0 +1,36 @@
+body {
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  background-color: #036b52;
+  border-bottom: 10px solid #3d495c;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 0;
+}
+
+.container-changes {
+  padding: 5px;
+}
+
+.changes {
+  display: inline-block;
+  text-align: center;
+}
+
+.container-text {
+  max-width: 960px;
+  margin: auto;
+  padding: 5px;
+}
+
+.paragraph {
+  font-size: 20px;
+  line-height: 25px;
+  color: black;
+}
