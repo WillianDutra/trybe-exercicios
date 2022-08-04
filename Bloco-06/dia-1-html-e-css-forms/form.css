@@ -1,0 +1,43 @@
+body {
+  padding: 0px;
+  margin: auto;
+  max-width: 960px;
+  text-align: center;
+}
+
+.container-form {
+  border: 1px solid black;
+  text-align: left;
+  max-width: 600px;
+  margin: auto;
+  padding: 10px;
+}
+
+#input-name {
+  margin-bottom: 5px;
+}
+
+#input-email {
+  margin-bottom: 10px;
+}
+
+#mountains {
+  margin-bottom: 10px;
+}
+
+#text-area {
+  margin-bottom: 10px;
+}
+
+.date {
+  margin-left: 10px;
+}
+
+#checkbox-1 {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 8px;
+}
