@@ -117,7 +117,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 7: Introdução ao Redux
 
 - [x] 7-1: _Introdução ao Redux_
-- [ ] 7-2: _React com Redux - Parte 1_
+- [x] 7-2: _React com Redux - Parte 1_
 - [ ] 7-3: _React com Redux - Prática_
 - [ ] 7-4: _React com Redux - Parte 2_
 - [ ] 7-5: _Testes síncronos com React-Redux_
