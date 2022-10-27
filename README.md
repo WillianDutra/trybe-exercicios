@@ -118,7 +118,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 7-1: _Introdução ao Redux_
 - [x] 7-2: _React com Redux - Parte 1_
-- [ ] 7-3: _React com Redux - Prática_
+- [x] 7-3: _React com Redux - Prática_
 - [ ] 7-4: _React com Redux - Parte 2_
 - [ ] 7-5: _Testes síncronos com React-Redux_
 - [ ] 7-6: _[Projeto - Tabela com filtros de dados]_
