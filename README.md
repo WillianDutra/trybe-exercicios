@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-6: _[Projeto - Zoo functions]_
 </details>
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 <details>
   <summary> Módulo: Fron-End </summary>
@@ -130,13 +130,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 9: React & Context API
 
 - [x] 9-1: _React Hooks - useState e useEffect_
-- [ ] 9-2: _Context API do React_
-- [ ] 9-3: _Custom Hooks_
-- [ ] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]_
+- [x] 9-2: _Context API do React_
+- [x] 9-3: _Custom Hooks_
+- [x] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]_
 
 ##### Bloco 10: Projeto Final de Front-end
 
-- [ ] 10-1: _[Projeto - App de Receitas]_
+- [x] 10-1: _[Projeto - App de Receitas]_
 </details>
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
@@ -146,9 +146,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### Bloco 1: Docker
 
-- [ ] 1-1: _Utilizando Container - Docker_
-- [ ] 1-2: _Manipulando imagens no Docker_
-- [ ] 1-3: _Orquestrando Containers com Docker Compose_
+- [x] 1-1: _Utilizando Container - Docker_
+- [x] 1-2: _Manipulando imagens no Docker_
+- [x] 1-3: _Orquestrando Containers com Docker Compose_
 - [ ] 1-4: _[Projeto - Docker Todo-List_
 
 ##### Bloco 2: Introdução - Bancos de dados relacionais
