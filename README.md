@@ -153,22 +153,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 2: Introdução - Bancos de dados relacionais
 
-- [ ] 2-1: _Banco de dados SQL_
-- [ ] 2-2: _Encontrando dados em um banco de dados_
-- [ ] 2-3: _Filtrando dados de forma especí­fica_
-- [ ] 2-4: _Manipulando tabelas_
-- [ ] 2-5: _[Projeto - All For One]_
+- [x] 2-1: _Banco de dados SQL_
+- [x] 2-2: _Encontrando dados em um banco de dados_
+- [x] 2-3: _Filtrando dados de forma especí­fica_
+- [x] 2-4: _Manipulando tabelas_
+- [x] 2-5: _[Projeto - All For One]_
 
 ##### Bloco 3: Funções SQL, JOINS e Normalização
 
-- [ ] 3-1: _Funções mais usadas no SQL_
-- [ ] 3-2: _Descomplicando JOINs e UNIONs_
-- [ ] 3-3: _Stored Routines & Subqueries_
-- [ ] 3-4: _[Projeto - Vocabulary Booster]_
+- [x] 3-1: _Funções mais usadas no SQL_
+- [x] 3-2: _Descomplicando JOINs e UNIONs_
+- [x] 3-3: _Stored Routines & Subqueries_
+- [x] 3-4: _[Projeto - Vocabulary Booster]_
 
 ##### Bloco 4: Introdução ao Node.js
 
-- [ ] 4-1: _Runtime Assíncrono_
+- [x] 4-1: _Runtime Assíncrono_
 - [ ] 4-2: _API REST com Express_
 - [ ] 4-3: _Testes de Integração_
 - [ ] 4-4: _Express e Middlewares_
